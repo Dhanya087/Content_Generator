@@ -25,7 +25,7 @@ def main():
     st.set_page_config(page_title="Gemini AI Content Generator", page_icon=":sparkles:", layout="wide")
     
     st.title("✨  AI Content Generator ✨")
-    st.write("Welcome to the Gemini AI Content Generator! This tool allows you to create custom content based on your input.")
+    st.write("Welcome to the AI Content Generator! This tool allows you to create custom content based on your input.")
     st.write("### How to Use:")
     st.write("1. Enter your request in the text area below.")
     st.write("2. Select the desired length of the content.")
