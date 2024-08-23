@@ -24,7 +24,7 @@ model = genai.GenerativeModel(
 def main():
     st.set_page_config(page_title="Gemini AI Content Generator", page_icon=":sparkles:", layout="wide")
     
-    st.title("✨ Gemini AI Content Generator ✨")
+    st.title("✨  AI Content Generator ✨")
     st.write("Welcome to the Gemini AI Content Generator! This tool allows you to create custom content based on your input.")
     st.write("### How to Use:")
     st.write("1. Enter your request in the text area below.")
