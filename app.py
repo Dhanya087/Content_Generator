@@ -92,7 +92,7 @@ def main():
         st.download_button(
             label="Download Content",
             data=generated_content,
-            file_name="generated_content.pdf",
+            file_name="generated_content.txt",
             mime="text/plain",
         )
 
